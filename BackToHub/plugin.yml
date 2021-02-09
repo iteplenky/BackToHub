@@ -1,0 +1,10 @@
+name: BackToHub
+
+main: BackToHub\iteplenky\Main
+version: 1.0.0
+api: 3.0.0
+
+softdepend: ['Convert'] # github.com/iteplenky/Convert
+
+author: iteplenky
+website: vk.com/bedrock_models
